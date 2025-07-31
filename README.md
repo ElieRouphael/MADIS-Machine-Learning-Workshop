@@ -30,7 +30,7 @@ madis-ml-workshop/
 │
 ├── CLEANED_TP_MADIS_Machine_Learning.ipynb
 ├── requirements.txt
-├── data/                    # (Optional) Add any dataset here
+├── data/                    
 └── README.md
 ```
 
